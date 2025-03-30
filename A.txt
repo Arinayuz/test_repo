@@ -1,1 +1,3 @@
 this is file A
+
+something was changed in the file
