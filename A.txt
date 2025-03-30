@@ -2,3 +2,4 @@ this is file A
 
 something was changed in the file
 File A was updated once again
+Another update in new_feature
